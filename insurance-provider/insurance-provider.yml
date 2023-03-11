@@ -9,6 +9,8 @@ server:
 insurance-provider-props:
    packages:
       - Silver
+      - Bronze
+      - Gold
       - Platinum
 
    properties:
