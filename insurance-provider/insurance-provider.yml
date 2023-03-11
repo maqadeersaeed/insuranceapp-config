@@ -3,7 +3,7 @@ spring:
     name: insurance-provider
     
 server:
-  port: 8081
+  port: 8080
 
 eureka:
   instance:
