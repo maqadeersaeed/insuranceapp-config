@@ -4,16 +4,3 @@ spring:
     
 server:
   port: 8081
-  
-insurance-provider-properties:
-   packages:
-      - Classic
-      - Silver
-      - Bronze
-      - Gold
-      - Platinum
-   properties:
-      - value1
-      - value2
-      
-appmood: Happy
