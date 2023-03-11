@@ -4,3 +4,13 @@ spring:
     
 server:
   port: 8081
+  
+  
+insurance-provider-props:
+   packages:
+      - Silver
+      - Platinum
+
+   properties:
+      - Val1
+      - Val2
