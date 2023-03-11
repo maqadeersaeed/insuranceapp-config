@@ -12,6 +12,7 @@ insurance-provider-props:
       - Bronze
       - Gold
       - Platinum
+      - Premium
 
    properties:
       - Val1
